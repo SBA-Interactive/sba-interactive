@@ -1,0 +1,1 @@
+import{u as c,O as h,v as k,A,ac as O}from"./render.B-5hRI1S.js";function u(r,i){return r===i||r?.[O]===i}function T(r={},i,a,b){return c(()=>{var f,s;return h(()=>{f=s,s=b?.()||[],k(()=>{r!==a(...s)&&(i(r,...s),f&&u(a(...f),r)&&i(null,...f))})}),()=>{A(()=>{s&&u(a(...s),r)&&i(null,...s)})}}),r}export{T as b};
