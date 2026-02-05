@@ -1,0 +1,1 @@
+import{C as h,F as k,D as S,a3 as T,a4 as c}from"./render.BCs50Su8.js";function u(r,i){return r===i||r?.[c]===i}function q(r={},i,a,b){return h(()=>{var f,s;return k(()=>{f=s,s=b?.()||[],S(()=>{r!==a(...s)&&(i(r,...s),f&&u(a(...f),r)&&i(null,...f))})}),()=>{T(()=>{s&&u(a(...s),r)&&i(null,...s)})}}),r}export{q as b};
