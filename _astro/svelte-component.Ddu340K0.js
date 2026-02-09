@@ -1,0 +1,1 @@
+import{k as s,l as c,o as m,E as i}from"./render.Bcud1eQ5.js";import{B as p}from"./branches.tpD8cx-1.js";function l(n,r,o){s&&c();var e=new p(n);m(()=>{var a=r()??null;e.ensure(a,a&&(t=>o(t,a)))},i)}export{l as c};
